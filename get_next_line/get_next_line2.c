@@ -102,7 +102,7 @@ char    *ft_trim(char *line)
     k = 0;
     while (line[i] && line[i] != '\n')
         i++;
-    if (line[i] != '\0')
+    if (line[i] == '\0')
         return (0);
     i++;
     stash = (char *)malloc(sizeof(char) * (ft_strlen(line + i) + 1));
