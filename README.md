@@ -9,6 +9,9 @@ This repository contains my several tries at solving these exercises prior to th
 
 ## Grade
 #### First try
-17/03/2023  
-100%  
-Get_next_line
+##### Exercise
+Get_next_line   
+##### Date
+17/03/2023    
+##### Score
+100%   
